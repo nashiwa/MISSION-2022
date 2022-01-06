@@ -1,0 +1,97 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.flexible-part{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+.top-width{
+    padding-top: 20%;
+}
+.first-width{
+    padding-right: 5%;
+}
+h1{
+    font-size: 40px;
+    padding-left: 7%;
+}
+#mission{
+    font-size: 35px;
+    color: rgb(14, 122, 224);
+}
+#first-head{
+    border-left: 5px solid red;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(192, 192, 243),rgb(122, 122, 240));
+    padding: 10px 25px ;
+    border-radius: 10px;
+    color: white;
+}
+.first-width{
+    width: 100%;
+    height: 100%;
+    padding-right: 10%;
+    
+}
+.images{
+    width: 80%;
+}
+
+#second-part{
+    text-align: center;
+    font-size: 35px;
+    background-image:linear-gradient(orange,yellow);
+}
+.year{
+    color: rgb(14, 122, 224);
+}
+.targer-part{
+    padding: 80px 70px ;
+    margin-left: 0%;
+    margin-right: 2%;
+    border-radius: 20px;
+}
+#first-box{
+    background-color: rgb(165, 197, 238);
+}
+
+#second-box{
+    background-color: rgb(194, 224, 144);
+}
+#third-box{
+    background-color: rgb(243, 200, 227);
+}
+.box-images{
+    width: 100%;
+}
+#last-head{
+    text-align: center;
+    margin-bottom: 10%;
+}
+#app-image{
+    width: 110%;
+}  
+#last-para{
+    width: 100%;
+    padding-top: 7%;
+    padding-left: 10%;
+}
+h1 span{
+    color: sienna;
+}
+#footer{
+    background-color: black;
+    border: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    text-align:center ;
+}
+
+footer span{
+    color: red;
+}
